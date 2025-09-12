@@ -1,0 +1,46 @@
+[+] Containers:
+ |- [+] Container: /Game/TestContent/MoveTest
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:5E75E2A04DB2B601CC1F02B234A50BF7 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- Guid:A0933DB044A16ECC33EC299D40624AB3 NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_C87F546CFE92568E02_1886893583 Label:Inncoenti SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-272.480 Y=-155.148 Z=-14740.522), Max=(X=231.073 Y=1.260 Z=-14265.118) RuntimeBounds:IsValid=true, Min=(X=-272.480 Y=-155.148 Z=-14740.522), Max=(X=231.073 Y=1.260 Z=-14265.118) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:BD2F0B7549C6CC59EDDBF8A78690157C NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_C87F546CFE92568E02_2038561586 Label:SkyLight SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-1.000 Y=-1.000 Z=-14160.000), Max=(X=130.000 Y=10.000 Z=1.000) RuntimeBounds:IsValid=true, Min=(X=130.000 Y=10.000 Z=-14160.000), Max=(X=130.000 Y=10.000 Z=-14160.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:5E75E2A04DB2B601CC1F02B234A50BF7 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:A0933DB044A16ECC33EC299D40624AB3 NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_C87F546CFE92568E02_1886893583 Label:Inncoenti SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-272.480 Y=-155.148 Z=-14740.522), Max=(X=231.073 Y=1.260 Z=-14265.118) RuntimeBounds:IsValid=true, Min=(X=-272.480 Y=-155.148 Z=-14740.522), Max=(X=231.073 Y=1.260 Z=-14265.118) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:BD2F0B7549C6CC59EDDBF8A78690157C NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_C87F546CFE92568E02_2038561586 Label:SkyLight SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-1.000 Y=-1.000 Z=-14160.000), Max=(X=130.000 Y=10.000 Z=1.000) RuntimeBounds:IsValid=true, Min=(X=130.000 Y=10.000 Z=-14160.000), Max=(X=130.000 Y=10.000 Z=-14160.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-272.480 Y=-155.148 Z=-14740.522), Max=(X=231.073 Y=1.260 Z=-14265.118)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/TestContent/MoveTest
+----------------------------------------------------------------------------------------------------------------
+MoveTest - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of MoveTest Persistent Level
+ |- Always loaded Actor Count: 2 
+ |- Actor Path: /Game/TestContent/MoveTest.MoveTest:PersistentLevel.SkyLight_UAID_C87F546CFE92568E02_2038561586
+ |- Actor Package: /Game/__ExternalActors__/TestContent/MoveTest/E/21/CMIH0GJ7U7KQ4O9GUKULEN
+ |- Actor Path: /Game/TestContent/MoveTest.MoveTest:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/TestContent/MoveTest/1/KL/YYQSS4M34QDW9FKYJ8PAE1
+
+----------------------------------------------------------------------------------------------------------------
+MoveTest - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Cell MoveTest_MainGrid_L0_X-1_Y-1_Z-1 (6LHT1FYW6FXCW1OEPQFDRHCK4)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-272.480 Y=-155.148 Z=-14740.522), Max=(X=0.000 Y=0.000 Z=-14265.118)
+ |- Cell Bounds: IsValid=true, Min=(X=-25200.000 Y=-25200.000 Z=-25200.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/TestContent/MoveTest.MoveTest:PersistentLevel.SkeletalMeshActor_UAID_C87F546CFE92568E02_1886893583
+ |   |-         Package: /Game/__ExternalActors__/TestContent/MoveTest/5/VY/FCOD10XA8SYRVJFJQEEFV7
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A0933DB044A16ECC33EC299D40624AB3
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+
