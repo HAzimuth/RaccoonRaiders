@@ -6,6 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/RaccoonRaiders/RaccoonRaiders/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/User/Documents/GitHub/RaccoonRaiders/RaccoonRaiders/Content/GameSystems/Camera/BP_FixedCam.uasset",
+				"C:/Users/User/Documents/GitHub/RaccoonRaiders/RaccoonRaiders/Content/GameSystems/Movement/PlayerBP.uasset",
+				"C:/Users/User/Documents/GitHub/RaccoonRaiders/RaccoonRaiders/Content/__ExternalActors__/TestContent/MoveTest/6/YW/9DW3ZGJML8VA9HAKP87NH3.uasset",
+				"C:/Users/User/Documents/GitHub/RaccoonRaiders/RaccoonRaiders/Content/__ExternalActors__/TestContent/MoveTest/3/59/2U9WTMF9EFWYZUUXNTLTJW.uasset",
+				"C:/Users/User/Documents/GitHub/RaccoonRaiders/RaccoonRaiders/Content/__ExternalActors__/TestContent/MoveTest/1/O5/IAMOCH2YR3Y34BCS5CMQ7S.uasset",
 				"C:/Users/User/Documents/GitHub/RaccoonRaiders/RaccoonRaiders/Content/TestContent/Test.umap"
 			]
 		}
